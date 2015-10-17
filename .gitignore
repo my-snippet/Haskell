@@ -4,7 +4,7 @@
 **/.ipynb_checkpoints/
 
 
-# Haskell
+# Haskell ( from gitignore )
 dist
 cabal-dev
 *.o
@@ -21,3 +21,7 @@ cabal.sandbox.config
 *.aux
 *.hp
 .stack-work/
+
+# ( custom )
+*.out
+*.hs~
